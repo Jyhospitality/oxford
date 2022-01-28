@@ -1,0 +1,676 @@
+Uri: http://cms.staah.net/mirador/images/biskotti-menu.pdf
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador\images\biskotti-menu.pdf
+Content Type: application/pdf
+
+Uri: http://cms.staah.net/mirador/images/HOA-menu.pdf
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador\images\HOA-menu.pdf
+Content Type: application/pdf
+
+Uri: http://cms.staah.net/mirador/images/IRD-Menu.pdf
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador\images\IRD-Menu.pdf
+Content Type: application/pdf
+
+Uri: https://cdn.jsdelivr.net/libs/html5shiv/3.7.0/html5shiv.js
+File Name: C:\Downloaded Web Sites\www.themirador.com\libs\html5shiv\3.7.0\html5shiv.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/libs/respond.js/1.4.2/respond.min.js
+File Name: C:\Downloaded Web Sites\www.themirador.com\libs\respond.js\1.4.2\respond.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.themirador.com\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.themirador.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.themirador.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.themirador.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.themirador.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.themirador.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.themirador.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador-mirador-BuffetinaBox.mp4
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador-mirador-BuffetinaBox.mp4
+Content Type: video/mp4
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_10Biryanimenu.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_10Biryanimenu.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_11Biryanimenu.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_11Biryanimenu.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_12Biryanimenu.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_12Biryanimenu.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_2Biryanimenu.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_2Biryanimenu.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_3Biryanimenu.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_3Biryanimenu.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_4Biryanimenu.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_4Biryanimenu.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_5Biryanimenu.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_5Biryanimenu.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_6Biryanimenu.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_6Biryanimenu.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_7Biryanimenu.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_7Biryanimenu.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_8Biryanimenu.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_8Biryanimenu.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_99andmonday.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_99andmonday.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_99andWednesday.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_99andWednesday.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_9Biryanimenu.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_9Biryanimenu.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_august2020.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_august2020.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_banqet1.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_banqet1.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_banqet3.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_banqet3.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_banquet2.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_banquet2.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_banquet4.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_banquet4.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_banquet5.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_banquet5.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_banquet6.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_banquet6.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_banquet7.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_banquet7.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_Biryanimenu1andcover.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_Biryanimenu1andcover.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_Biryani_Stories_by_The_Mirador_Rates.pdf
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_Biryani_Stories_by_The_Mirador_Rates.pdf
+Content Type: application/pdf
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_biscotti.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_biscotti.jpg
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_biscottiandpic1.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_biscottiandpic1.jpg
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_biscottiandpic2.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_biscottiandpic2.jpg
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_biscottiandpic3.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_biscottiandpic3.jpg
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_biscotti_logo.gif
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_biscotti_logo.gif
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_check_mark.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_check_mark.png
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_confidenceandftr.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_confidenceandftr.png
+Content Type: image/png
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_CorpandDiscand1.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_CorpandDiscand1.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_CorpandDiscand6.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_CorpandDiscand6.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_fac1.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_fac1.jpg
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_fac2.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_fac2.jpg
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_fac3.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_fac3.jpg
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_fac4.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_fac4.jpg
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_fac5.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_fac5.jpg
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_favicon.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_favicon.png
+Content Type: image/png
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_houseandofandasiaandpic1.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_houseandofandasiaandpic1.jpg
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_houseandofandasiaandpic2.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_houseandofandasiaandpic2.jpg
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_houseandofandasiaandpic3.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_houseandofandasiaandpic3.jpg
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_houseofasia.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_houseofasia.jpg
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_house_of_asia.gif
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_house_of_asia.gif
+Content Type: application/octet-stream
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_inroomdining1.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_inroomdining1.png
+Content Type: image/png
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_july2020.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_july2020.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_juneand2020andedition.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_juneand2020andedition.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_KaraokeandNite.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_KaraokeandNite.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_kittyandpartyandarts1.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_kittyandpartyandarts1.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_ladles_menu.pdf
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_ladles_menu.pdf
+Content Type: application/pdf
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_ledders2.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_ledders2.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_leddlers1.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_leddlers1.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_leddlers3.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_leddlers3.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_leddlers4.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_leddlers4.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_leddlers5.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_leddlers5.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_leddlers6.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_leddlers6.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_leddlers7.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_leddlers7.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_mayand2020andedition.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_mayand2020andedition.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_menu.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_menu.png
+Content Type: image/png
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_miradorandlogoandfooter.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_miradorandlogoandfooter.png
+Content Type: image/png
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_Miradorandtestimonials.pdf
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_Miradorandtestimonials.pdf
+Content Type: application/pdf
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_miradoricons1.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_miradoricons1.png
+Content Type: image/png
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_miraodrandoffercreatiesmain.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_miraodrandoffercreatiesmain.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_overaly.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_overaly.png
+Content Type: image/png
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_payment.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_payment.png
+Content Type: image/png
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_resturantandmenu.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_resturantandmenu.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_secure.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_secure.png
+Content Type: image/png
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_swiggy.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_swiggy.png
+Content Type: image/png
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_tripadvisorandlogo.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_tripadvisorandlogo.png
+Content Type: image/png
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_valueandmealandfri.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_valueandmealandfri.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_weandareandvaccintaed.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_weandareandvaccintaed.png
+Content Type: image/png
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_WeekendandFamilyandPackage.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_WeekendandFamilyandPackage.jpg
+Content Type: image/jpeg
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_whatsappicon.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_whatsappicon.png
+Content Type: image/png
+
+Uri: https://dec1osz9a7g7e.cloudfront.net/mirador_mirador_zomato.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\mirador_mirador_zomato.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Muli:300,400,700,800
+File Name: C:\Downloaded Web Sites\www.themirador.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Shadows+Into+Light
+File Name: C:\Downloaded Web Sites\www.themirador.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Varela+Round
+File Name: C:\Downloaded Web Sites\www.themirador.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf
+File Name: C:\Downloaded Web Sites\www.themirador.com\s\muli\v22\7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFlOl0k30e0.ttf
+File Name: C:\Downloaded Web Sites\www.themirador.com\s\muli\v22\7Aulp_0qiz-aVz7u3PJLcUMYOFlOl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFmQkEk30e0.ttf
+File Name: C:\Downloaded Web Sites\www.themirador.com\s\muli\v22\7Aulp_0qiz-aVz7u3PJLcUMYOFmQkEk30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v22/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+File Name: C:\Downloaded Web Sites\www.themirador.com\s\muli\v22\7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/shadowsintolight/v10/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD8.ttf
+File Name: C:\Downloaded Web Sites\www.themirador.com\s\shadowsintolight\v10\UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzdcD8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/varelaround/v13/w8gdH283Tvk__Lua32TysjIfp8uK.ttf
+File Name: C:\Downloaded Web Sites\www.themirador.com\s\varelaround\v13\w8gdH283Tvk__Lua32TysjIfp8uK.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.themirador.com\bootstrap\3.3.7\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\www.themirador.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\www.themirador.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\www.themirador.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\www.themirador.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\www.themirador.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\www.themirador.com\bootstrap\3.3.7\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.themirador.com\bootstrap\3.3.7\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://platform.twitter.com/widgets.js
+File Name: C:\Downloaded Web Sites\www.themirador.com\widgets.js
+Content Type: application/javascript
+
+Uri: https://s3.amazonaws.com/staah/istheme/mirador/The+Mirador+Newsletter+May+2020.pdf
+File Name: C:\Downloaded Web Sites\www.themirador.com\staah\istheme\mirador\The Mirador Newsletter May 2020.pdf
+Content Type: application/pdf
+
+Uri: https://s3.amazonaws.com/staah/istheme/mirador/The+Mirador_Newsletter+Jun+2020.pdf
+File Name: C:\Downloaded Web Sites\www.themirador.com\staah\istheme\mirador\The Mirador_Newsletter Jun 2020.pdf
+Content Type: application/pdf
+
+Uri: https://staahcms.s3.amazonaws.com/The_Mirador_Newsletter_Jul_20.pdf
+File Name: C:\Downloaded Web Sites\www.themirador.com\The_Mirador_Newsletter_Jul_20.pdf
+Content Type: application/pdf
+
+Uri: https://staahweb.s3.amazonaws.com/Cake+menu+TV-white.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\Cake menu TV-white.jpg
+Content Type: image/jpeg
+
+Uri: https://watchmyrate.com/watchMyRateStaahMax/watch-my-rate-widget-tab.css
+File Name: C:\Downloaded Web Sites\www.themirador.com\watchMyRateStaahMax\watch-my-rate-widget-tab.css
+Content Type: text/css
+
+Uri: https://watchmyrate.com/watchMyRateStaahMax/watch-my-rate-widget-tab.js
+File Name: C:\Downloaded Web Sites\www.themirador.com\watchMyRateStaahMax\watch-my-rate-widget-tab.js
+Content Type: application/javascript
+
+Uri: https://www.themirador.com/
+File Name: C:\Downloaded Web Sites\www.themirador.com\index.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/404.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\404.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/conference-banquets.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\conference-banquets.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/contact.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\contact.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/css/jquery-ui.css
+File Name: C:\Downloaded Web Sites\www.themirador.com\css\jquery-ui.css
+Content Type: text/css
+
+Uri: https://www.themirador.com/css/style.css
+File Name: C:\Downloaded Web Sites\www.themirador.com\css\style.css
+Content Type: text/css
+
+Uri: https://www.themirador.com/dining.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\dining.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/dining/biskotti.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\dining\biskotti.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/dining/house-of-asia.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\dining\house-of-asia.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/dining/in-room-dining.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\dining\in-room-dining.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/disclaimer.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\disclaimer.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/facilities.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\facilities.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/hotels-in-andheri.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\hotels-in-andheri.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/hotels-in-andheri/club-myra.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\hotels-in-andheri\club-myra.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/hotels-in-andheri/mirable-room.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\hotels-in-andheri\mirable-room.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/hotels-in-andheri/spa-suite.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\hotels-in-andheri\spa-suite.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/images/014e1f00354663c19a6b02a5a1c68887.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\014e1f00354663c19a6b02a5a1c68887.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/1e7250df57a0b2ff4248b9cd894fa05c.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\1e7250df57a0b2ff4248b9cd894fa05c.png
+Content Type: image/png
+
+Uri: https://www.themirador.com/images/27d0a2658e7ec1950e5b0cc8b5a4344c.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\27d0a2658e7ec1950e5b0cc8b5a4344c.png
+Content Type: image/png
+
+Uri: https://www.themirador.com/images/2be952694e6388be81edca62c2cb9fe3.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\2be952694e6388be81edca62c2cb9fe3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/481cb3ec24b056913a0b4a57f747ebed.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\481cb3ec24b056913a0b4a57f747ebed.png
+Content Type: image/png
+
+Uri: https://www.themirador.com/images/54562877ab5c367ac3ba15e20e6c8dd7.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\54562877ab5c367ac3ba15e20e6c8dd7.png
+Content Type: image/png
+
+Uri: https://www.themirador.com/images/57e77bb4c1d775ac09a124438a500d38.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\57e77bb4c1d775ac09a124438a500d38.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/5be3312227442e794ae98da6b5da0ac5.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\5be3312227442e794ae98da6b5da0ac5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/784b6b27a1484a4bbebd2740d045745f.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\784b6b27a1484a4bbebd2740d045745f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/8c655a7f8bf6acc884f0d41d273f772d.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\8c655a7f8bf6acc884f0d41d273f772d.png
+Content Type: image/png
+
+Uri: https://www.themirador.com/images/9955b7136a9e454462e459ecd1da3a89.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\9955b7136a9e454462e459ecd1da3a89.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/a26a12375a4c4e894126ae53e6db2413.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\a26a12375a4c4e894126ae53e6db2413.png
+Content Type: image/png
+
+Uri: https://www.themirador.com/images/ac72519cea6bb4a005010e40af801b3b.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\ac72519cea6bb4a005010e40af801b3b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/b3d2e5e410c77fc3ac60dbefe387c7ee.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\b3d2e5e410c77fc3ac60dbefe387c7ee.png
+Content Type: image/png
+
+Uri: https://www.themirador.com/images/bde21383f97dad767bf0bbb0281de5fb.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\bde21383f97dad767bf0bbb0281de5fb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/bfe499ee5dde6e913c80dfcb5c3fea77.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\bfe499ee5dde6e913c80dfcb5c3fea77.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/big_f3e28d41a18cb1932263a269e2d3f199_thumb.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\big_f3e28d41a18cb1932263a269e2d3f199_thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/d05cc67ecb5227a4aa95657e7ce83153.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\d05cc67ecb5227a4aa95657e7ce83153.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/d44f84422b43797c8aaaa2c0fcac47ce.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\d44f84422b43797c8aaaa2c0fcac47ce.png
+Content Type: image/png
+
+Uri: https://www.themirador.com/images/d9ebfa5d2e52334c9d1a66ac43ac723a.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\d9ebfa5d2e52334c9d1a66ac43ac723a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/f3e28d41a18cb1932263a269e2d3f199.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\f3e28d41a18cb1932263a269e2d3f199.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/fed2f031faf8bc6b6d48c4b62c426ad7.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\fed2f031faf8bc6b6d48c4b62c426ad7.png
+Content Type: image/png
+
+Uri: https://www.themirador.com/images/logo.png
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\logo.png
+Content Type: image/png
+
+Uri: https://www.themirador.com/images/mirador_mirador_banquet1.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\mirador_mirador_banquet1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/mirador_mirador_conferenceandhall1.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\mirador_mirador_conferenceandhall1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/mirador_mirador_frontandoffice1.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\mirador_mirador_frontandoffice1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/mirador_mirador_housekeepig1.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\mirador_mirador_housekeepig1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/mirador_mirador_kitchen1.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\mirador_mirador_kitchen1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/mirador_mirador_resturant1.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\mirador_mirador_resturant1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/mirador_mirador_roomandservice1.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\mirador_mirador_roomandservice1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/images/mirador_mirador_valet1.jpg
+File Name: C:\Downloaded Web Sites\www.themirador.com\images\mirador_mirador_valet1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.themirador.com/js/jquery-ui.js
+File Name: C:\Downloaded Web Sites\www.themirador.com\js\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://www.themirador.com/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.themirador.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.themirador.com/js/main.js
+File Name: C:\Downloaded Web Sites\www.themirador.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.themirador.com/js/snowfall.jquery.js
+File Name: C:\Downloaded Web Sites\www.themirador.com\js\snowfall.jquery.js
+Content Type: application/javascript
+
+Uri: https://www.themirador.com/Mirador Stayperience.pdf
+File Name: C:\Downloaded Web Sites\www.themirador.com\Mirador Stayperience.pdf
+Content Type: application/pdf
+
+Uri: https://www.themirador.com/news.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\news.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/newsletters.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\newsletters.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/offers.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\offers.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/privacy-policy.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\privacy-policy.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/refund-policy.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\refund-policy.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/terms-condition.htm
+File Name: C:\Downloaded Web Sites\www.themirador.com\terms-condition.htm
+Content Type: text/html
+
+Uri: https://www.themirador.com/The_Mirador_Newsletter_Aug_2020.pdf
+File Name: C:\Downloaded Web Sites\www.themirador.com\The_Mirador_Newsletter_Aug_2020.pdf
+Content Type: application/pdf
+
