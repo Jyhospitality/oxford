@@ -1,0 +1,2 @@
+$(function(){var scroll=$(window).scrollTop();if(scroll>=100){$("body").addClass("scrolled");}else{$("body").removeClass("scrolled");}
+$(window).scroll(function(){var scroll=$(window).scrollTop();if(scroll>=100){$("body").addClass("scrolled");}else{$("body").removeClass("scrolled");}});$('.customIconNav').on('click',function(){$('.onav-menu').toggleClass('omenuOpen');$('body').toggleClass('menu-open');});$(window).on('resize',function(){$('.onav-menu').removeClass('omenuOpen');$('body').removeClass('menu-open');});});
